@@ -1,6 +1,7 @@
 This is a template project for Android Studio that allows you to create an android webview application in minutes. You can use it to create a simple app for your website or as a starting point for your HTML5 based android app.
 
 ##Added target SDK version to SDK-29##
+Download Webview demo release https://github.com/veritas44/webview-simple/releases/download/webview/app-release.apk
 
 ### Getting started
 
